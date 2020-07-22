@@ -18,5 +18,5 @@ For the broader view of monitoring in Kubernetes take a look into
 ## Deployment
 
 ```
-kubectl apply -f metrics.yml
+kubectl apply -f metrics.yaml
 ```
